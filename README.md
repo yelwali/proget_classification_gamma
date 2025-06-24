@@ -26,12 +26,12 @@ Ce notebook inclut :
 
 ### 🔬 Réseaux de Neurones (PyTorch)
 
-| Méthode                                   | Accuracy | Precision | Recall   | F1 Score |
-|-------------------------------------------|----------|-----------|----------|----------|
-| Réseaux de Neurones (Adam Optimizer)      | 0.877965 | 0.878371  | 0.877965 | 0.867373 |
-| Réseaux de Neurones (SGD Optimizer)       | 0.864991 | 0.866386  | 0.864991 | 0.864797 |
-| Réseaux de Neurones (RandomizedSearchCV)  | 0.867423 | 0.867672  | 0.867423 | 0.867373 |
-| Réseaux de Neurones (Grid Search)         | 0.877357 | 0.877608  | 0.877357 | 0.877311 |
+| Méthode                                | Accuracy | Precision | Recall   | F1 Score |
+|----------------------------------------|----------|-----------|----------|----------|
+| Réseaux de Neurones (Adam Optimizer)   | 0.869248 | 0.868900  | 0.869248 | 0.869159 |
+| Réseaux de Neurones (SGD Optimizer)    | 0.867221 | 0.868961  | 0.867221 | 0.866993 |
+| Réseaux de Neurones (RandomizedSearchCV)| 0.870667 | 0.873392  | 0.870667 | 0.873046 |
+| Réseaux de Neurones (Grid Search)      | 0.872897 | 0.873059  | 0.872897 | 0.872861 |
 
 ### ⚙️ Modèles de Machine Learning Traditionnels
 
